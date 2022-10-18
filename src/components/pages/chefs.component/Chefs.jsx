@@ -1,7 +1,10 @@
 import React from 'react'
+// import './Chefs.css'
 
-export const Chefs = () => {
+const Chefs = () => {
   return (
-    <div>Chefs</div>
+    <div>Recipes</div>
   )
 }
+
+export default Chefs;

@@ -1,2 +1,2 @@
-import Input from '../input.component/Input';
+import Input from './Input';
 export default Input;
